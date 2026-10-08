@@ -2,13 +2,15 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (Estácio, 4º semestre), em transição da **Logística e PCP** para a tecnologia.
 
-Gosto de transformar processos manuais em soluções automatizadas, e meu foco hoje é **Python, Banco de Dados e Dados**.
+Gosto de transformar processos manuais em soluções automatizadas, e meu foco hoje é **Python, Banco de Dados e Dados**. Meu principal projeto é um **sistema de estoque inteligente**, que une o que aprendi em Logística com programação e IA.
 
 🎯 Buscando oportunidades de **estágio em TI e Dados** (Grande Rio ou remoto).
 
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,6 +23,7 @@ Gosto de transformar processos manuais em soluções automatizadas, e meu foco h
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| ⭐ [Sistema de Estoque Inteligente](https://github.com/mttfmi/sitema-de-estoque) | Sistema web com PDV, análise preditiva de ruptura, busca com IA e relatórios em PDF/Excel | Python, Flask, PostgreSQL, IA |
 | [Sistema de Notas](https://github.com/mttfmi/Interface-gr-fica-com-python) | Interface desktop com login, perfis de professor e aluno, e dados em Excel | Python, Tkinter, Pandas |
 | [Banco de Dados SQLite](https://github.com/mttfmi/banco-de-dados-SQLLITE-apenas-estudando-) | Criação de tabelas, inserções e consultas com JOIN | Python, SQLite, SQL |
 | [Site Marcenaria do Carlito](https://github.com/mttfmi/Site-de-marcenaria-) | Site responsivo com formulário de orçamento integrado ao Firebase | HTML, CSS, JS, Firebase |
